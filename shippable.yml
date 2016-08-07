@@ -10,7 +10,7 @@ build:
 
 integrations:
   deploy:
-    - integrationName: "aws-test"
+    - integrationName: "nodejsapp"
       type: aws
       target: eb_paas
       platform: "Node.js"
